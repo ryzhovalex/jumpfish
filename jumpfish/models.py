@@ -120,5 +120,5 @@ class JumpFishConfig(Model):
     First passed repository is always the one used for data read. Data write is
     made to all repositories.
 
-    By default there is a single built-in repo.
+    By default there are built-in repos.
     """
